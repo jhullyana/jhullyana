@@ -6,6 +6,8 @@
 
 ![Jhullyana GitHub stats](https://github-readme-stats.vercel.app/api?username=jhullyana&show_icons=true&theme=dracula)
 
+[![Too Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhullyana)](https://github.com/jhullyana/github-readme-stats)
+
 ## Tecnologias
 
 <div style="display: inline_block"><br/>
